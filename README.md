@@ -1,6 +1,6 @@
 # Counterfactual Generation Framework for Few-Shot Learning
 
-By Anonymous author. (To be updated)
+By Dang Zhuohang, Luo Minnan, Jia Chengyou, Yan Caixia, Chang Xiaojun and Zheng Qinghua.
 
 This repository is an implementation of the paper "Counterfactual Generation Framework for Few-Shot Learning".
 
